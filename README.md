@@ -4,7 +4,7 @@ Hi 👋 My name is Nickolas Thompson
 Junior Full Stack Developer and Musician 🎵
 -------------------------------------------
 
-Welcome to my page! I'm a Full Stack Web Developer! I started college pursuing a Bachelor's in Psychology as I love helping others and talking people through their issues. However, I learned through this that I love solving people's problems as well. COVID-19 knocked me out of college and I ended up in the UNC Charlotte Bootcamp. I graduated in August of 2022 and haven't looked back since! In my free time I'll play my guitar, bass, or drum set. I love music and I can talk about it for hours. I'm a pretty big metalhead, but I love just about every genre there is
+Welcome to my page! I'm a Full Stack Web Developer! I started college pursuing a Bachelor's in Psychology as I love helping others and talking people through their issues. However, I learned through this that I love solving people's problems as well. COVID-19 knocked me out of college and I ended up in the UNC Charlotte Bootcamp. I graduated in August of 2022 and haven't looked back since! In my free time I'll play my guitar, bass, or drum set. I love music and I can talk about it for hours. I'm a pretty big metalhead, but I love just about every genre there is.
 
 * 🌍  I'm based in Conover, North Carolina
 * ✉️  You can contact me at [thompsonnickolas1@gmail.com](mailto:thompsonnickolas1@gmail.com)
