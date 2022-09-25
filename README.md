@@ -8,7 +8,7 @@ Welcome to my page! I'm a Full Stack Web Developer! I started college pursuing a
 
 * 🌍  I'm based in Conover, North Carolina
 * ✉️  You can contact me at [thompsonnickolas1@gmail.com](mailto:thompsonnickolas1@gmail.com)
-* 🧠  I'm learning Java and C# on my own
+* 🧠  I'm learning Java on my own through a game tutorial
 
 ### Skills
 
